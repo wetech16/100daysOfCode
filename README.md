@@ -6,8 +6,8 @@
  - [X] boostrap
  
 ## React
- -class
- -hook
- -router
+ - [X] class
+ - [X] hook
+ - [X] router
 ## DB
 ## Firebase
