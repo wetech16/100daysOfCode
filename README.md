@@ -2,9 +2,9 @@
 
 ## HTLM
 ## CSS
- - [ ] tailwind
- -boostrap
- -
+ - [X] tailwind
+ - [X] boostrap
+ 
 ## React
  -class
  -hook
