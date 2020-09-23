@@ -9,3 +9,4 @@
  - [X] boostrap
 ## DB
 ## Firebase
+- [X] [jquery](https://github.com/SarahJoline/Train-Scheduler-/blob/master/assets/app.js)  
