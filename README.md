@@ -2,7 +2,7 @@
 
 ## HTLM
 ## CSS
- -[ ] tailwind
+ - [ ] tailwind
  -boostrap
  -
 ## React
