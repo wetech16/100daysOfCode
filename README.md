@@ -8,7 +8,7 @@
     - [x] ComponentDidMount
     - [x] usehook/logic
     - [x] return 
-      - [x] component { props }
+      - [x] component { state }
         - input, button, text
   - [x] function
     - [x] useState
@@ -20,7 +20,7 @@
         - [x] switch
           - [x] route
     - [x] return 
-      - [x] component { props }
+      - [x] component { state }
         - input, button, text
              
 ### CSS
