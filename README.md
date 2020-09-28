@@ -40,26 +40,30 @@
         - modules
         - json
         - cors
-    - #### [x] post/get
-    - #### [x] router
+    - [x] post/get
+    - [x] router
         - route
           - post/get
-              - ### mongoose model
+              - [x] mongoose model
                 - schema
-                  - #### db
-              - ### firebase firestore
-  - #### [x] firebase-function.Https.onRequest  
-  - #### [x] listen
-    - port
-      - 3000
-      - dotenv
+                  - [x] mongooseDB
+              - [x] firebase admin SDK.firestore
+    - [x] firebase-function.Https.onRequest  
+    - [x] listen
+      - port
+        - 3000
+        - dotenv
 -----        
   #### [x] firebase path
     - [x] express
-      - #### [x] post/get
-      - #### [x] router
+      - [x] post/get
+      - [x] router
           - route
             - post/get
+              - [x] mongoose model
+                - schema
+                  - [x] mongooseDB
+              - [x] firebase admin SDK.firestore
       - [x] use
         - modules
         - json
