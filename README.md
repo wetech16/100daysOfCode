@@ -1,16 +1,16 @@
 # 100daysOfCode
 # Web Development
   # Front End
-    ## React
-      -Modules
-        - [X] class 
+   ### React
+   - Modules
+      - [X] class 
               - [x] state
               - [x] Didmount
               - usehook/logic
               - return 
                 - [x] component { props }
                   - input, button, text
-        - [x] function
+      - [x] function
               - [x] useState
               - [x] useEffect
               - usehook/logic
@@ -19,11 +19,11 @@
                 - [X] router
                   - [x] switch
                     - [x] route
-              - return 
+       - return 
                 - [x] component { props }
                   - input, button, text
              
-    ### CSS
+   ### CSS
         - [X] tailwind-react
         - [X] boostrap
           - vanilla
@@ -34,9 +34,9 @@
           - fortawensome
 -----
   ## Back End
-    ### server
-       #### [x] Nodejs
-          - [x] express
+   ### server
+   #### [x] Nodejs
+   - [x] express
             - [x] use
               - modules
               - json
@@ -49,25 +49,24 @@
                 - schema
                   - #### db
               - firebase firestore
-          - [x] listen
+    - #### [x] firebase-function.Https.onRequest  
+    - #### [x] listen
             - port
               - 3000
               - dotenv
-        - [x] firebase function
 -----        
-      #### [x] firebase
-         - [x] firebase-function.Https.onRequest
-         - [x] express
+  #### [x] firebase
+   - [x] express
             - #### [x] post/get
             - #### [x] router
                 - route
                   - post/get
                 
-         - [x] use
+   - [x] use
              - modules
              - json
              - cors
-         
+    - [x] firebase-function.Https.onRequest      
   ##### DB
     - [x] mongoose atlas
     - [x] firebase firestore
