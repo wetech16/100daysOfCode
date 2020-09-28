@@ -1,5 +1,4 @@
-# 100daysOfCode
-# Web Development
+# 100 days Of Coding Web Development
 # Front End
 ## React
 ### [x] Modules
@@ -36,19 +35,21 @@
 
 ## Back End
 #### [x] Nodejs Path
+  - [x] mongoose
+    - [x] connect
   - [x] express
       - [x] use
         - modules
         - json
         - cors
-  - [x] post/get
-  - [x] router
-      - route
-        - post/get
-            - [x] mongoose model
-              - schema
-                - [x] mongooseDB
-            - [x] firebase admin SDK.firestore
+    - [x] post/get
+    - [x] router
+        - route
+          - post/get
+              - [x] mongoose model
+                - schema
+                  - [x] mongooseDB
+              - [x] firebase admin SDK.firestore
   - [x] firebase-function.Https.onRequest  
   - [x] listen
     - port
@@ -61,9 +62,7 @@
     - [x] router
         - route
           - post/get
-            - [x] mongoose model
-              - schema
-                - [x] mongooseDB
+            - [x] mongooseDB
             - [x] firebase admin SDK.firestore
     - [x] use
       - modules
