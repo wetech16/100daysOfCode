@@ -2,7 +2,7 @@
 # Web Development
 # Front End
 ## React
-### Modules
+### [x] Modules
   - [X] class 
     - [x] state
     - [x] ComponentDidMount
