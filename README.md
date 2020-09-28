@@ -1,7 +1,7 @@
 # 100daysOfCode
 # Web Development
-  ## Front End
-    ### React
+  # Front End
+    ## React
       -Modules
         - [X] class 
               - [x] state
