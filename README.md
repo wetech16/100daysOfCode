@@ -2,30 +2,75 @@
 # Web Development
   ## Front End
     ### React
-        - [X] class [I'm an inline-style link](https://www.google.com)
-            - [x] state
-            - [x] Didmount
+      -Modules
+        - [X] class 
+              - [x] state
+              - [x] Didmount
+              - usehook/logic
+              - return 
+                - [x] component { props }
+                  - input, button, text
         - [x] function
-            - [x] Component
-            - [X] hook
               - [x] useState
               - [x] useEffect
-            - [x] react-router-dom
-              - [x] Link
-              - [X] router
-                - [x] route
+              - usehook/logic
+              - [x] react-router-dom
+                - [x] Link
+                - [X] router
+                  - [x] switch
+                    - [x] route
+              - return 
+                - [x] component { props }
+                  - input, button, text
              
     ### CSS
-        - [X] tailwind
+        - [X] tailwind-react
         - [X] boostrap
+          - vanilla
+          - react
+        - [x] material-ui
+        - [x] icons
+          - material-ui
+          - fortawensome
+-----
   ## Back End
     ### server
-        - [x] Nodejs
+       #### [x] Nodejs
+          - [x] express
+            - [x] use
+              - modules
+              - json
+              - cors
+            - #### [x] post/get
+            - #### [x] router
+                - route
+                  - post/get
+              - mongoose model
+                - schema
+                  - #### db
+              - firebase firestore
+          - [x] listen
+            - port
+              - 3000
+              - dotenv
         - [x] firebase function
-    ### DB
-        - [x] MoongoDB
-        - [x] Firestore
-
+-----        
+      #### [x] firebase
+         - [x] firebase-function.Https.onRequest
+         - [x] express
+            - #### [x] post/get
+            - #### [x] router
+                - route
+                  - post/get
+                
+         - [x] use
+             - modules
+             - json
+             - cors
+         
+  ##### DB
+    - [x] mongoose atlas
+    - [x] firebase firestore
 
 ## Projects
  - [X] [jquery](https://github.com/SarahJoline/Train-Scheduler-/blob/master/assets/app.js)  
