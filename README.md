@@ -1,27 +1,27 @@
 # 100daysOfCode
 # Web Development
 # Front End
-### React
-- Modules
+## React
+### Modules
   - [X] class 
     - [x] state
-    - [x] Didmount
-    - usehook/logic
-    - return 
+    - [x] ComponentDidMount
+    - [x] usehook/logic
+    - [x] return 
       - [x] component { props }
         - input, button, text
   - [x] function
     - [x] useState
     - [x] useEffect
-    - usehook/logic
+    - [x] usehook/logic
     - [x] react-router-dom
       - [x] Link
       - [X] router
         - [x] switch
           - [x] route
-  - return 
-    - [x] component { props }
-      - input, button, text
+    - [x] return 
+      - [x] component { props }
+        - input, button, text
              
 ### CSS
   - [X] tailwind-react
